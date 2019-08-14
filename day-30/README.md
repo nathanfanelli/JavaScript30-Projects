@@ -1,0 +1,1 @@
+This is the final project from the JavaScript30 course. This is a whack-a-mole game using functions to control the duration of the game, Math.round to keep the game arbitrary, and click events to keep score. 
